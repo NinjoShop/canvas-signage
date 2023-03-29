@@ -1,8 +1,10 @@
 ## Canvas Signage
 ##### _Canvas manipulation of given resizable uploaded image and text editor multi-styled text in PHP and React._
 
+Editor: <br />
 <img src="img/example_editor.png" alt="example editor">
 
+Export:<br />
 <img src="img/example_save.jpeg" alt="example export">
 
 [NinjoShop.com](https://ninjoshop.com)
@@ -25,13 +27,10 @@
   - zh-CN
   - etc...
 - Text editor add/remove configurable toolbar styles
-- Insert (picture, link, ...)
-- Font Style (fontname, color, forecolor, ...)
-- Paragraph style (style, ol, ul, ...)
-- Misc (fullscreen, codeview, undo, ...)
-  Export canvas in multi-formats (png/jpeg/webp)
-  Publish canvas on cloud with unique urls
-  Clean and well commented source code
+  - Insert (picture, link, ...)
+  - Font Style (fontname, color, forecolor, ...)
+  - Paragraph style (style, ol, ul, ...)
+  - Misc (fullscreen, codeview, undo, ...)
 - Export canvas in multi-formats (png/jpeg/webp)
 - Publish canvas on cloud with unique urls
 - Clean source code
